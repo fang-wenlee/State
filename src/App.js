@@ -10,6 +10,7 @@ export default function App() {
       <h1>Total Count:{count} </h1>
       <Counter name="fang-wen" setCount={setCount} count={count} />
       <Counter name="Hsi-wen" setCount={setCount} count={count} />
+      <Counter name="Pohan" setCount={setCount} count={count} />
     </div>
   );
 }
